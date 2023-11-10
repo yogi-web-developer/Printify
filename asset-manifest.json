@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Printify/static/css/main.264b43ab.css",
+    "main.js": "/Printify/static/js/main.3f8e7b1b.js",
+    "static/js/787.b8aa329c.chunk.js": "/Printify/static/js/787.b8aa329c.chunk.js",
+    "static/media/productImages.jpg": "/Printify/static/media/productImages.6ceb20a898870913fc91.jpg",
+    "static/media/welcomeImage.png": "/Printify/static/media/welcomeImage.58769ab03af6ca7ae3c4.png",
+    "static/media/teamLeader1.png": "/Printify/static/media/teamLeader1.e3ba4415bb7699de9609.png",
+    "static/media/teamLeader2.png": "/Printify/static/media/teamLeader2.43c04647195138ebdf22.png",
+    "static/media/teamLeader3.png": "/Printify/static/media/teamLeader3.7abfb851b21a952d58ab.png",
+    "static/media/whatWeDoImage.jpg": "/Printify/static/media/whatWeDoImage.ddc3e9d2f1125d8875b2.jpg",
+    "static/media/offsetPrint.jpg": "/Printify/static/media/offsetPrint.079c483626b6a71e3079.jpg",
+    "static/media/AboutCompanyImage.jpg": "/Printify/static/media/AboutCompanyImage.4e4b5b8e6b8da1003b92.jpg",
+    "static/media/howWework.jpg": "/Printify/static/media/howWework.171aa7c14a33852434f9.jpg",
+    "static/media/3d printing.jpg": "/Printify/static/media/3d printing.5e1145517ff205731251.jpg",
+    "static/media/premiseImage.jpg": "/Printify/static/media/premiseImage.4032e2612ee53610b6da.jpg",
+    "static/media/testimonialTwo.jpg": "/Printify/static/media/testimonialTwo.653d9dacef39b4800b0e.jpg",
+    "static/media/testimonialOne.jpg": "/Printify/static/media/testimonialOne.b5e1f057ed818da2c8c5.jpg",
+    "static/media/printifyLogo.png": "/Printify/static/media/printifyLogo.98b3266f83dc01af9eb9.png",
+    "static/media/digitalPrint.jpeg": "/Printify/static/media/digitalPrint.f3c2aa77a57453181ac0.jpeg",
+    "static/media/printerTwo.webp": "/Printify/static/media/printerTwo.d781678217ef21007386.webp",
+    "static/media/printerThree.webp": "/Printify/static/media/printerThree.30a4c563096ed575ebde.webp",
+    "index.html": "/Printify/index.html",
+    "main.264b43ab.css.map": "/Printify/static/css/main.264b43ab.css.map",
+    "main.3f8e7b1b.js.map": "/Printify/static/js/main.3f8e7b1b.js.map",
+    "787.b8aa329c.chunk.js.map": "/Printify/static/js/787.b8aa329c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264b43ab.css",
+    "static/js/main.3f8e7b1b.js"
+  ]
+}
